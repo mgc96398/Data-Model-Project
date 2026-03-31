@@ -32,3 +32,4 @@ Our team's data model is based on the management of multi-unit residential prope
 
 
 ## Ten Queries
+
