@@ -3,7 +3,7 @@ Group Project 1
 ## Team Name and Members
  • Makenna Clark-811340225-
  
- • Mikey Cap-
+ • Mikey Cap-811608237-
  
  • William Barret-
  
