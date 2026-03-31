@@ -32,13 +32,32 @@ Our team's data model is based on the management of multi-unit residential prope
 
 
 ## Ten Queries:
+1.
 ![Query 1](https://github.com/mgc96398/Data-Model-Project/blob/main/Query%201%20.png?raw=true)
+
+2. 
 ![Query 2](https://github.com/mgc96398/Data-Model-Project/blob/main/Query%202.png?raw=true)
+
+3.
 ![Query 3](https://github.com/mgc96398/Data-Model-Project/blob/main/Query%203.png?raw=true)
+
+4.
 ![Query 4](https://github.com/mgc96398/Data-Model-Project/blob/main/Query%204.png?raw=true)
+
+5.
 ![Query 5](https://github.com/mgc96398/Data-Model-Project/blob/main/Query%205.png?raw=true)
+
+6.
 ![Query 6](https://github.com/mgc96398/Data-Model-Project/blob/main/Query%206.png?raw=true)
+
+7.
 ![Query 7](https://github.com/mgc96398/Data-Model-Project/blob/main/Query%207.png?raw=true)
+
+8.
 ![Query 8](https://github.com/mgc96398/Data-Model-Project/blob/main/Query%208.png?raw=true)
+
+9.
 ![Query 9](https://github.com/mgc96398/Data-Model-Project/blob/main/Query%209.png?raw=true)
+
+10.
 ![Query 10](https://github.com/mgc96398/Data-Model-Project/blob/main/Query%2010.png?raw=true)
