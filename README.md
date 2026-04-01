@@ -94,6 +94,5 @@ Query 9 is the maintenance team's daily dashboard. It shows every outstanding is
 Query 10 allows management to see exactly which tenants have pets and at which properties. This is important for ensuring pet deposits have been collected, verifying that pets comply with breed or size restrictions in the lease, and planning pet-friendly amenities or services. 
 
 ## Matrix:
-![Matrix](https://github.com/mgc96398/Data-Model-Project/blob/main/Matrix.png?raw=true)
 ![Matrix](https://github.com/tjlee03/Data-Model-Project/blob/main/Matrix.png?raw=true)
 
